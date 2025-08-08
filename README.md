@@ -1,1 +1,0 @@
-# Basic-SELECT-Queries.sql
